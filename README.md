@@ -1,2 +1,1 @@
-# Image-webpage-tester
-Building an image-review webpage for practice purposes
+Image Review Web App is a modern web application that allows users to upload, view, and review images with an intuitive and responsive interface. It is designed to provide a seamless experience for managing image submissions, adding feedback, and organizing visual content efficiently.
